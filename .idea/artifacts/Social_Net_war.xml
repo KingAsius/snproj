@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="Social Net:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="secure-exam.war">
-      <element id="artifact" artifact-name="Social Net:war exploded" />
-    </root>
-  </artifact>
-</component>
